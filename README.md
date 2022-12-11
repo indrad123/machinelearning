@@ -80,7 +80,7 @@ Jeffares, A. (2020) _Supervised vs unsupervised learning in 2 minutes_, _Medium_
 
 Liu, M. _et al._ (2019) “Evaluating machine learning approaches to classify pharmacy students’ reflective statements,” _Lecture Notes in Computer Science_, pp. 220–230. Available at: [https://doi.org/10.1007/978-3-030-23204-7\_19](https://doi.org/10.1007/978-3-030-23204-7\_19).
 
-Mindrila, D. and Balentyne, P. (nd) _Scatterplots and correlation - university of west georgia | UWG_. Available at: [https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots\_and\_correlation\_notes.pdf](https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots\_and\_correlation\_notes.pdf) (Accessed: December 11, 2022).
+Mindrila, D. and Balentyne, P. (nd) Scatterplots and correlation - university of west georgia | UWG. Available at: https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots\_and\_correlation\_notes.pdf (Accessed: December 11, 2022).
 
 Patil, P. (2022) _What is exploratory data analysis?_, _Medium_. Towards Data Science. Available at: [https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)  (Accessed: December 11, 2022).
 
