@@ -1,4 +1,4 @@
-# Evaluation Assignment 1
+# Evaluation of Assignment 1
 
 There are a few points on assignment 1 to be improved:
 
